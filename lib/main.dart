@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
     pinned: true,
     flexibleSpace: FlexibleSpaceBar(
       title: Text(
-        'Hey Tushar \n this is your to do list',
+        'Hey Tushar \n this is your to do lists',
         style: TextStyle(
           fontWeight: FontWeight.bold,
           fontSize: 35.0,
@@ -44,4 +44,3 @@ class MyApp extends StatelessWidget {
     ),
   );
 }
- i own a place at trump tower
